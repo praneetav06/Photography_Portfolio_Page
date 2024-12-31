@@ -8,3 +8,8 @@ A visually appealing **Photography Portfolio** built using HTML and CSS to showc
 - **Responsive Layout**: Optimized for viewing on desktops, tablets, and mobile devices.
 - **Contact Section**: Include your social media links and contact details.
 - **Customizable**: Easily update the content to match your style and branding.
+
+## Technologies Used
+
+- **HTML**: Structure of the portfolio.
+- **CSS**: Styling, animations, and responsive layout.
